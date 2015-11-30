@@ -2,6 +2,9 @@ p {
   color: #ed145b;
 }
 
+a:visited {
+  color: purple;
+}
 article h2 {
   font-weight: normal;
   font color: #ed145b;
