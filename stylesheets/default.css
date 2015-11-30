@@ -1,0 +1,54 @@
+body {
+  background-color: #222222;
+}
+
+header {
+  font-family: Courier;
+  text-align: center;
+  color: yellow;
+  font-size: 48px;
+  text-decoration: underline;
+}
+
+h2 {
+  color: orange;
+}
+
+#nav {
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+    display: inline;
+    -webkit-justify-content: space-around;
+    display: flex;
+    justify-content: space-around;
+}
+
+section {
+  display: block;
+}
+
+a:visited {
+  color: purple;
+}
+
+
+
+
+
+ol {
+  color: yellow;
+  font-size: 22px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  line-height: 0.5;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  margin-top: 20px;
+
+}
