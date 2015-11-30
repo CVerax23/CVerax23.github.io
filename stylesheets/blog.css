@@ -1,7 +1,18 @@
-body {
-  background-image: url("http://i293.photobucket.com/albums/mm52/r3balion88/matrix.gif");
+p {
+  color: #ed145b;
 }
 
-a:link {
-  color: yellow;
+article h2 {
+  font-weight: normal;
+  font color: #ed145b;
 }
+
+h1 {
+  color: yellow;
+  text-decoration: underline;
+  font-weight: normal;
+  font-size: 28px;
+}
+
+
+
